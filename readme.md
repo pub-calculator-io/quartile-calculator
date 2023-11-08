@@ -12,9 +12,8 @@ The quartile calculator helps to find the first(Q1), second(Q2), and third(Q3) q
 3. Activate the [Quartile Calculator](https://www.calculator.io/quartile-calculator/ "Quartile Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_quartile_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Quartile Calculator to the sidebar through the `Appearance -> Widgets -> Quartile Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_quartile_calculator(); ?>` to your template where you would like the Quartile Calculator to appear.
+* Add the shortcode `[ci_quartile_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_quartile_calculator(); ?>` to your template where you would like the Quartile Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
