@@ -13,6 +13,8 @@ The quartile calculator helps to find the first(Q1), second(Q2), and third(Q3) q
 
 The quartile calculator helps to find the first(Q1), second(Q2), and third(Q3) quartiles, interquartile range, minimum and maximum values, and range of a data set.
 
+[Quartile Calculator Homepage](https://www.calculator.io/quartile-calculator/ "Quartile Calculator Homepage")
+
 __Shortcode__
 
 Use the Quartile Calculator shortcode:
