@@ -1,6 +1,6 @@
 === Quartile Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: quartile calculator, first quartile (Q1) calculation, second quartile (Q2) median, third quartile (Q3) determination, interquartile range analysis, minimum and maximum value identification, data set range calculation, percentile calculation
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
