@@ -1,4 +1,4 @@
-# Quartile Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Quartile Calculator Widget for WordPress
 
 The quartile calculator helps to find the first(Q1), second(Q2), and third(Q3) quartiles, interquartile range, minimum and maximum values, and range of a data set.
 
