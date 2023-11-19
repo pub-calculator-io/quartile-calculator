@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Quartile Calculator by www.calculator.io
+Plugin Name: CI Quartile calculator
 Plugin URI: https://www.calculator.io/quartile-calculator/
 Description: The quartile calculator helps to find the first(Q1), second(Q2), and third(Q3) quartiles, interquartile range, minimum and maximum values, and range of a data set.
 Version: 1.0.0
