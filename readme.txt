@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Quartile Calcul
 == Screenshots ==
 
 1. The Quartile Calculator Input Form.
-2. The Quartile Calculator Calculation Results.
 
 == Installation ==
 
