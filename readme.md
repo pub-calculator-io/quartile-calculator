@@ -1,6 +1,6 @@
 # Quartile Calculator Widget for WordPress
 
-The quartile calculator helps to find the first(Q1), second(Q2), and third(Q3) quartiles, interquartile range, minimum and maximum values, and range of a data set.
+Use our free Quartile Calculator to easily find Q1, Q2 (median), Q3, interquartile range (IQR), minimum, maximum, and dataset range in seconds.
 
 ![Quartile Calculator Input Form](/assets/images/screenshot-1.png "Quartile Calculator Input Form")
 
@@ -11,8 +11,8 @@ The quartile calculator helps to find the first(Q1), second(Q2), and third(Q3) q
 3. Activate the [Quartile Calculator](https://www.calculator.io/quartile-calculator/ "Quartile Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_quartile_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_quartile_calculator(); ?>` to your template where you would like the Quartile Calculator to appear.
+* Add the shortcode `[calcio_quartile_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_quartile_calculator(); ?>` to your template where you would like the Quartile Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
